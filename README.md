@@ -57,7 +57,7 @@ Working on enterprise and SaaS applications by:
 
 - 📧 Email: ignatiusealiasroy@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/ignatius-ealias-roy-5950531b4
-- 🌐 GitHub: github.com/ignatiusealias
+- 🌐 GitHub: [github.com/ignatiusealias](https://github.com/ignatiusealias)
 
 ---
 
